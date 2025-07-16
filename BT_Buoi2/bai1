@@ -1,0 +1,8 @@
+a = int(input("Số a : "))
+b = int(input("Số b : "))
+print("tổng là : " , a + b )
+print("hiệu là :", a - b )
+print("tích là : ", a * b )
+print("thương là : ", float(a / b))
+print("thương lấy dư là : ", a % b )
+print("lũy thừa là : ", a ** b)
