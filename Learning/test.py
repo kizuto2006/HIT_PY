@@ -1,4 +1,3 @@
-a = [10,7,'hello','y']
-for i in range(10):
-    i = a(0,4,1)
-    print(i);
+a = {1,2,3,4,5,6,7,8,6,4,2}
+print(a)
+print(type(a))
