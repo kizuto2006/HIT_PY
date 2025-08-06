@@ -1,5 +1,5 @@
 a = []
-n = int(input('Nhap so phan tu : '))
+n = int(input('Nhập số phần tử : '))
 for i in range(n) :
     temp = input('Nhap so : ')
     a.append(temp)
